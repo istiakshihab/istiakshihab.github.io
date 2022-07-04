@@ -1,0 +1,33 @@
+.Timeline {
+    position: relative;
+    right: 60vh;
+    margin-bottom: 10vh;
+}
+
+.Blog {
+    position: relative;
+    right: 60vh;
+}
+
+.Contact {
+    position: relative;
+    right: 60vh;
+    margin-top: 10vh;
+}
+
+.Resume {
+    position: relative;
+    left: 60vh;
+}
+
+.Publication {
+    position: relative;
+    left: 60vh;
+    margin-top: 10vh;
+}
+
+.About {
+    position: relative;
+    left: 60vh;
+    margin-bottom: 10vh;
+}

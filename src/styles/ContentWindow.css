@@ -1,0 +1,35 @@
+.Content {
+    position: absolute;
+    height: 72vmin;
+    width: 116vmin;
+    padding: 4vh;
+    background: rgba(0,0,0,0.8);
+    color: white;
+    font-family: 'Press Start 2P';
+    font-size: 1vh;
+    overflow: auto;
+}
+
+a:link {
+    color: aqua;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: aqua;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: aquamarine;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
