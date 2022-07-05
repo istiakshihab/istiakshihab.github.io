@@ -13,6 +13,19 @@ import React, { useEffect, useState } from 'react';
 function App() {
   const [check, setCheck] = useState(false);
   const [innerHtml, setInnerHtml] = useState("<b>Loading</b>")
+  const activeButton = {
+    NONE: 0,
+    TIMELINE: 1,
+    BLOG: 2,
+    CONTACT: 3,
+    ABOUT: 4,
+    RESUME: 5,
+    PUBLICATION: 6
+  }
+
+  const [activePage, setActivePage] = useState(activeButton.NONE);
+
+  Object.freeze(activeButton);
 
   return (
     <div
@@ -28,17 +41,55 @@ function App() {
         <div className="Grid-div">
           <div>
             <TimelineButton
-              toggleContent = { setCheck }
-              check = { check }
-              setInnerHtml = { setInnerHtml }
+              toggleContent={setCheck}
+              check={check}
+              setInnerHtml={setInnerHtml}
+              activePage={activePage}
+              setActivePage={setActivePage}
+              activeButton={activeButton}
             />
-            <BlogButton />
-            <ContactButton />
+            <BlogButton
+              activeButton={activeButton}
+              activePage={activePage}
+              setActivePage={setActivePage}
+              toggleContent={setCheck}
+              check={check}
+              setInnerHtml={setInnerHtml}
+            />
+            <ContactButton
+              activeButton={activeButton}
+              activePage={activePage}
+              setActivePage={setActivePage}
+              toggleContent={setCheck}
+              check={check}
+              setInnerHtml={setInnerHtml}
+            />
           </div>
           <div>
-            <AboutButton />
-            <ResumeButton />
-            <PublicationButton />
+            <AboutButton
+              activeButton={activeButton}
+              activePage={activePage}
+              setActivePage={setActivePage}
+              toggleContent={setCheck}
+              check={check}
+              setInnerHtml={setInnerHtml}
+            />
+            <ResumeButton
+              activeButton={activeButton}
+              activePage={activePage}
+              setActivePage={setActivePage}
+              toggleContent={setCheck}
+              check={check}
+              setInnerHtml={setInnerHtml}
+            />
+            <PublicationButton
+              activeButton={activeButton}
+              activePage={activePage}
+              setActivePage={setActivePage}
+              toggleContent={setCheck}
+              check={check}
+              setInnerHtml={setInnerHtml}
+            />
           </div>
         </div>
 

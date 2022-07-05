@@ -7,7 +7,7 @@ import timeline from '../content/timeline.txt';
 let TimelineText = "Loading";
 
 class TimelineButton extends React.Component {
-    
+
     render() {
         fetch(timeline)
             .then(r => r.text())
@@ -17,16 +17,25 @@ class TimelineButton extends React.Component {
 
         const { toggleContent } = this.props;
         const { setInnerHtml } = this.props;
-        const { check } = this.props;
-        
+        const { activePage } = this.props;
+        const { activeButton } = this.props;
+        const { setActivePage } = this.props;
+
         return (
             <div className='container Timeline'>
                 <RetroButton
                     label="Timeline"
                     handleClick={
                         () => {
-                            toggleContent(!check)
-                            setInnerHtml(TimelineText)
+                            if (activeButton.TIMELINE === activePage) {
+                                toggleContent(false)
+                                setActivePage(activeButton.NONE)
+                            }
+                            else {
+                                toggleContent(true)
+                                setActivePage(activeButton.TIMELINE)
+                                setInnerHtml(TimelineText)
+                            }
                         }
                     } />
             </div>

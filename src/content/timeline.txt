@@ -9,7 +9,7 @@ lllllll╚═╝lll╚═╝╚═╝lllll╚═╝╚══════╝╚�
 llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll
 </span>
 </pre>
-<div class="container" style="padding-left: 4vh; padding-right:4vh; line-height:2; font-size:1.3vh" >
+<div class="container" style="padding-left: 4vh; padding-right:4vh; padding-bottom: 4vh; line-height:2; font-size:1.3vh" >
 <ul>
   <li>
     Published Paper titled <a href="https://openaccess.thecvf.com/content/CVPR2022W/AICity/papers/Shihab_VISTA_Vision_Transformer_Enhanced_by_U-Net_and_Image_Colorfulness_Frame_CVPRW_2022_paper.pdf">VISTA: Vision transformer enhanced by U-Net and image colorfulness frame filtration for automatic retail checkout</a> accepted in <a href="https://www.aicitychallenge.org/">AI City Challenge Workshop 2022</a> at CVPR 2022</b>
@@ -18,7 +18,7 @@ llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll
     Placed 3rd in a computer vision competition, competing against 15 International Universities and Companies in Track-4 of <a href="https://www.aicitychallenge.org/">AI City Challenge Workshop 2022</a>.</b>
   </li>
   <li>
-    Published Paper titled <a href="https://arxiv.org/abs/2204.09964">TEAM-Atreides at SemEval-2022 Task 11: On leveraging data augmentation and ensemble to recognize complex Named Entities in Bangla</a> accepted in  Proceedings of the 16th International Workshop on Semantic Evaluation.</li>
+    Published Paper titled <a href="https://arxiv.org/abs/2204.09964">TEAM Atreides at SemEval-2022 Task 11: On leveraging data augmentation and ensemble to recognize complex Named Entities in Bangla</a> accepted in  Proceedings of the 16th International Workshop on Semantic Evaluation.</li>
   <li>
     Reached Region Final of Microsoft Imagine Cup 2022 in Health Category with <a href="https://github.com/WeDoinaThing">Project Shaako, An NGO Management and Content Delivery platform, Powered by Azure. </a> <a href="https://youtu.be/AAKgAQp_-4Q">[video]</a>
   </li>
@@ -26,10 +26,22 @@ llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll
     Started working as a Full-Time Backend Engineer in Software Research and Engineering Dept, bKash Ltd from September 2021.
   </li>
   <li>
+    Published Paper titled <a href="https://arxiv.org/abs/2107.14095">Exploring the Scope and Potential of Local Newspaper-based Dengue Surveillance in Bangladesh</a> accepted in Joint KDD 2021 Health Day and 2021 KDD Workshop on Applied Data Science for Healthcare in August 2021.
+  </li>
+  <li>
     Graduated in June 2021 from Shahjalal University of Science and Technology with a B.Sc Degree in Computer Science and Engineering.
   </li>
   <li>
     Started working as a Full-Time Mobile-App (Android) Engineer in Progoti Systems Ltd from April 2021.
+  </li>
+  <li>
+    Published Paper titled <a href="https://journals.flvc.org/FLAIRS/article/view/128552">Observing the Unobserved: A Newspaper Based Dengue Surveillance System for the Low-Income Regions of Bangladesh</a> accepted in Volume 34 of The International FLAIRS Conference Proceedings in April 2021. 
+  </li>
+  <li>
+    Placed 4th in Dhaka AI Vehicle Object Detection Challenge in December 2020. <a href="https://www.researchgate.net/profile/Sowmen-Das/publication/356039571_Team_Passphrase_Dhaka_AI_Vehicle_Detection_Challenge_4th_place_Submission/links/618a431b07be5f31b75c5c7f/Team-Passphrase-Dhaka-AI-Vehicle-Detection-Challenge-4th-place-Submission.pdf">[Poster]</a>
+  </li>
+  <li>
+    Started working as a Developer Intern in Pipilika, Bangla Search Engine from April 2020.
   </li>
 </ul>
 </div>
