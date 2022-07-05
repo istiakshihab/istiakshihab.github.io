@@ -36,7 +36,13 @@ function App() {
     >
       <header className="App-header">
         <CenterBox />
-        <ContentWindow check={check} innerHtml={innerHtml} />
+        <ContentWindow
+          check={check}
+          innerHtml={innerHtml}
+          toggleContent={setCheck}
+          setActivePage={setActivePage}
+          activeButton={activeButton}
+          />
         <BottomText />
         <div className="Grid-div">
           <div>

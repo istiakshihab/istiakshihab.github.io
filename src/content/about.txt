@@ -10,10 +10,10 @@ lllllllllllllllllllllllllllllllllllllllllllllllllll
 </pre>
 <div class="container"
   style="padding-left: 4vh; padding-right:4vh; padding-bottom: 4vh; line-height:2; font-size:1.3vh">
-  I'm a full-time Backend Software Engineer at bKash Ltd where I work with Spring Boot and Reactive Java. I have
+  I'm a full-time Backend Software Engineer at bKash Ltd where I work with <u>Spring Boot</u> and <u>Reactive Java</u>. I have
   graduated from Shahjalal University of Science and Technology with an engineering degree in Computer Science and
   Engineering. Although, I never meant to walk this way during my childhood, I am loving the journey I am having right
-  now. Currently, I'm exploring Deep Learning when I'm not busy with my office work. My research interests include:
+  now. Currently, I'm exploring <u>Deep Learning</u> when I'm not busy with my office work. My research interests include:
 
   <div class="container" style="padding-left: 4vh; ">
     <ul>
@@ -24,7 +24,7 @@ lllllllllllllllllllllllllllllllllllllllllllllllllll
 
   If you want to work or discuss with
   me regarding this topic, I would love to collaborate with you. I also have professional experience with
-  Android Application Development and Django. Other than that, I play video games (namely Dota 2 and Valorant) and won't
+  <u>Android Application Development</u> and <u>Django</u>. Other than that, I play video games (namely Dota 2 and Valorant) and won't
   like to game with you, probably. I'm somewhat of a music snob too and currently obsessing over Neutral Milk Hotel and
   Reo Speedwagon. My love for the new Retro aesthetics and the movie "Drive" inspired me to build this website. Also,
   Neon Genesis Evangelion is probably my most favorite anime. Thanks for reading!

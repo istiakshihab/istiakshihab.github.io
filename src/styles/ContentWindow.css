@@ -1,35 +1,48 @@
 .Content {
-    position: absolute;
-    height: 72vmin;
-    width: 116vmin;
-    padding: 4vh;
-    background: rgba(0,0,0,0.8);
-    color: white;
-    font-family: 'Press Start 2P';
-    font-size: 1vh;
-    overflow: auto;
+  position: absolute;
+  height: 72vmin;
+  width: 116vmin;
+  padding: 4vh;
+  background: rgba(0, 0, 0, 0.8);
+  color: white;
+  font-family: 'Press Start 2P';
+  font-size: 1vh;
 }
 
+.ContentPlacer {
+  position: absolute;
+  height: 65vmin;
+  width: 110vmin;
+  overflow: auto;
+}
+
+.topcorner{
+  position:absolute;
+  top:0;
+  right:1vh;
+  font-size: 2.5vh;
+ }
+
 a:link {
-    color: aqua;
-    background-color: transparent;
-    text-decoration: none;
-  }
-  
-  a:visited {
-    color: aqua;
-    background-color: transparent;
-    text-decoration: none;
-  }
-  
-  a:hover {
-    color: aquamarine;
-    background-color: transparent;
-    text-decoration: underline;
-  }
-  
-  a:active {
-    color: yellow;
-    background-color: transparent;
-    text-decoration: underline;
-  }
+  color: aqua;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: aqua;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: aquamarine;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
