@@ -1,0 +1,40 @@
+<pre><span class="inner-pre" style="font-size: 1vh">
+llll██████╗l██╗lll██╗██████╗l██╗lllll██╗l██████╗l█████╗l████████╗██╗l██████╗l███╗lll██╗llll
+llll██╔══██╗██║lll██║██╔══██╗██║lllll██║██╔════╝██╔══██╗╚══██╔══╝██║██╔═══██╗████╗ll██║llll
+llll██████╔╝██║lll██║██████╔╝██║lllll██║██║lllll███████║lll██║lll██║██║lll██║██╔██╗l██║llll
+llll██╔═══╝l██║lll██║██╔══██╗██║lllll██║██║lllll██╔══██║lll██║lll██║██║lll██║██║╚██╗██║llll
+llll██║lllll╚██████╔╝██████╔╝███████╗██║╚██████╗██║ll██║lll██║lll██║╚██████╔╝██║l╚████║llll
+llll╚═╝llllll╚═════╝l╚═════╝l╚══════╝╚═╝l╚═════╝╚═╝ll╚═╝lll╚═╝lll╚═╝l╚═════╝l╚═╝ll╚═══╝llll
+lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll
+</span>
+</pre>
+<div class="container"
+  style="padding-left: 4vh; padding-right:4vh; padding-bottom: 4vh; line-height:2; font-size:1.3vh">
+  <ul>
+    <li>
+      <a
+        href="https://openaccess.thecvf.com/content/CVPR2022W/AICity/papers/Shihab_VISTA_Vision_Transformer_Enhanced_by_U-Net_and_Image_Colorfulness_Frame_CVPRW_2022_paper.pdf">VISTA:
+        Vision transformer enhanced by U-Net and image colorfulness frame filtration for automatic retail checkout</a>
+    </li>
+    <li>
+      <a href="https://arxiv.org/abs/2204.09964">TEAM Atreides at SemEval-2022 Task 11: On
+        leveraging data augmentation and ensemble to recognize complex Named Entities in Bangla</a>
+    </li>
+    <li>
+      <a href="https://arxiv.org/abs/2107.14095">Exploring the Scope and Potential of Local
+        Newspaper-based Dengue Surveillance in Bangladesh</a>
+    </li>
+    <li>
+      <a href="https://journals.flvc.org/FLAIRS/article/view/128552">Observing the Unobserved: A
+        Newspaper Based Dengue Surveillance System for the Low-Income Regions of Bangladesh</a>
+    </li>
+    <li>
+      <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8083570/">Choice of assemblers has a critical impact on de
+        novo assembly of SARS-CoV-2 genome and characterizing variants</a>
+    </li>
+    <li>
+      <a href="https://www.researchgate.net/profile/Sowmen-Das/publication/356039571_Team_Passphrase_Dhaka_AI_Vehicle_Detection_Challenge_4th_place_Submission/links/618a431b07be5f31b75c5c7f/Team-Passphrase-Dhaka-AI-Vehicle-Detection-Challenge-4th-place-Submission.pdf">Observing the Unobserved: A
+        Team Passphrase: Dhaka AI Vehicle Detection</a>
+    </li>
+  </ul>
+</div>
