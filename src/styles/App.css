@@ -1,5 +1,7 @@
 .App {
   height: 100vh;
+  min-width: 180vh;
+  width: 100%;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -27,12 +29,13 @@
   font-size: calc(10px + 2vmin);
 }
 
-.Grid-div{
+.Grid-div {
   position: relative;
   display: flex;
   text-align: center;
   justify-content: center;
 }
+
 /* 
 @keyframes App-logo-spin {
   from {
