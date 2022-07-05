@@ -42,7 +42,6 @@ function App() {
           <div>
             <TimelineButton
               toggleContent={setCheck}
-              check={check}
               setInnerHtml={setInnerHtml}
               activePage={activePage}
               setActivePage={setActivePage}
@@ -53,7 +52,6 @@ function App() {
               activePage={activePage}
               setActivePage={setActivePage}
               toggleContent={setCheck}
-              check={check}
               setInnerHtml={setInnerHtml}
             />
             <ContactButton
@@ -61,7 +59,6 @@ function App() {
               activePage={activePage}
               setActivePage={setActivePage}
               toggleContent={setCheck}
-              check={check}
               setInnerHtml={setInnerHtml}
             />
           </div>
@@ -71,7 +68,6 @@ function App() {
               activePage={activePage}
               setActivePage={setActivePage}
               toggleContent={setCheck}
-              check={check}
               setInnerHtml={setInnerHtml}
             />
             <ResumeButton
@@ -79,7 +75,6 @@ function App() {
               activePage={activePage}
               setActivePage={setActivePage}
               toggleContent={setCheck}
-              check={check}
               setInnerHtml={setInnerHtml}
             />
             <PublicationButton
@@ -87,7 +82,6 @@ function App() {
               activePage={activePage}
               setActivePage={setActivePage}
               toggleContent={setCheck}
-              check={check}
               setInnerHtml={setInnerHtml}
             />
           </div>

@@ -1,1 +1,13 @@
-On Progress
+<pre><span class="inner-pre" style="font-size: 1vh">
+lllll█████╗l██████╗ll██████╗l██╗lll██╗████████╗llll
+llll██╔══██╗██╔══██╗██╔═══██╗██║lll██║╚══██╔══╝llll
+llll███████║██████╔╝██║lll██║██║lll██║lll██║lllllll
+llll██╔══██║██╔══██╗██║lll██║██║lll██║lll██║lllllll
+llll██║ll██║██████╔╝╚██████╔╝╚██████╔╝lll██║lllllll
+llll╚═╝ll╚═╝╚═════╝ll╚═════╝ll╚═════╝llll╚═╝lllllll
+lllllllllllllllllllllllllllllllllllllllllllllllllll
+</span>
+</pre>
+<div class="container" style="padding-left: 4vh; padding-right:4vh; padding-bottom: 4vh; line-height:2; font-size:1.3vh" >
+I'm a full-time Backend Software Engineer at bKash Ltd where I work with Spring Boot and Reactive Java. I have graduated from Shahjalal University of Science and Technology with an engineering  in Computer Science and Engineering. 
+</div>

@@ -7,7 +7,7 @@ class CenterBox extends React.Component {
         return (
             <img src={Logo} className="App-logo" style={{
                 position: "absolute",
-            }} alt="logo" />
+              }} alt="logo" />
         );
     }
 }
