@@ -9,7 +9,7 @@ lllll╚═════╝l╚═════╝l╚═╝ll╚═══╝lll�
 lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll
 </span>
 </pre>
-<div class="container" style="padding-left: 4vh; padding-right:4vh; padding-bottom: 4vh; line-height:2; font-size:1.3vh" >
+<div class="container"  style="padding-left: 4vh; padding-right:4vh; padding-bottom: 4vh; font-size:3vh;" >
 <ul style="list-style-type:none;">
   <li>
     <i class="fa-solid fa-envelope" style="font-size: 2vh"></i> Email: <a href="mailto:istiak@proton.me">istiak@proton.me</a>
