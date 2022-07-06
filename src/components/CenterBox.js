@@ -1,5 +1,5 @@
 import React from 'react';
-import Logo from '../images/center.gif';
+import Logo from '../images/center-2.gif';
 import '../styles/App.css';
 
 class CenterBox extends React.Component {

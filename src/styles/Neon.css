@@ -19,16 +19,28 @@
     font-size: 7vh;
     font-family: 'RetroNeon';
     font-weight: 400;
-    animation: glow 1s infinite alternate;
+    text-shadow: 1px 0px 4px #FFD5FF, 2px 0px 4px #FFD5FF, 3px 0px 4px #FFD5FF, 2px 0px 3px #D42CCA, 2px 3px 15px #D42CCA, 2px 0px 15px, 5px 0px 125px, 20px 0vw 200px #D42CCA,40px 0vw 200px #D42CCA;
 }
 
-@keyframes glow {
-    to {
-      text-shadow: 0 0 10px cyan,0 0 10px cyan;
-    }
-  }
+.flicker-slow{
+  animation: flicker 3s linear infinite;
+}
+
+.flicker-fast{
+  animation: flicker 1s linear infinite;
+}
+
+@keyframes flicker {
+	0%, 19.999%, 22%, 62.999%, 64%, 64.999%, 70%, 100% {
+    opacity: .99;
+		
+	}
+	20%, 21.999%, 63%, 63.999%, 65%, 69.999% {
+		opacity: 0.4;
+	}
+}
   
-  @font-face {
-    font-family: 'RetroNeon';
-    src: url('../fonts/Title.otf') format("OpenType");
-  }
+@font-face {
+  font-family: 'RetroNeon';
+  src: url('../fonts/Title.otf') format("OpenType");
+}
