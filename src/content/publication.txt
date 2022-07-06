@@ -33,7 +33,7 @@ llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll
         novo assembly of SARS-CoV-2 genome and characterizing variants</a>
     </li>
     <li>
-      <a href="https://www.researchgate.net/profile/Sowmen-Das/publication/356039571_Team_Passphrase_Dhaka_AI_Vehicle_Detection_Challenge_4th_place_Submission/links/618a431b07be5f31b75c5c7f/Team-Passphrase-Dhaka-AI-Vehicle-Detection-Challenge-4th-place-Submission.pdf">Observing the Unobserved: A
+      <a href="https://www.researchgate.net/profile/Sowmen-Das/publication/356039571_Team_Passphrase_Dhaka_AI_Vehicle_Detection_Challenge_4th_place_Submission/links/618a431b07be5f31b75c5c7f/Team-Passphrase-Dhaka-AI-Vehicle-Detection-Challenge-4th-place-Submission.pdf">
         Team Passphrase: Dhaka AI Vehicle Detection</a>
     </li>
   </ul>
