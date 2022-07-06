@@ -28,6 +28,10 @@ a{
   z-index: 5;
 }
 
+li{
+  padding-bottom: .7vh;
+}
+
 a:link {
   color: aqua;
   background-color: transparent;
