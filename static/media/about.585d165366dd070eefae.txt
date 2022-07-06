@@ -8,8 +8,7 @@ llll╚═╝ll╚═╝╚═════╝ll╚═════╝ll╚══�
 lllllllllllllllllllllllllllllllllllllllllllllllllll
 </span>
 </pre>
-<div class="container"
-  style="padding-left: 4vh; padding-right:4vh; padding-bottom: 4vh; font-size:3vh;">
+<div class="container" style="padding-left: 4vh; padding-right:4vh; padding-bottom: 4vh; font-size:3.5vh;   line-height: 1.3;" >
   I'm a full-time Backend Software Engineer at bKash Ltd where I work with <u>Spring Boot</u> and <u>Reactive Java</u>. I have
   graduated from Shahjalal University of Science and Technology with an engineering degree in Computer Science and
   Engineering. Although, I never meant to walk this way during my childhood, I am loving the journey I am having right
