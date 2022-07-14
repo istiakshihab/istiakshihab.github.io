@@ -13,15 +13,17 @@ class ContentWindow extends React.Component {
 
         if (check)
             return (
-                <div className='Content'
-                >   <div className='topcorner' onClick={()=>{
-                    toggleContent(false)
-                    setActivePage(activeButton.NONE)
-                }}>
-                    <i class="fa-solid fa-xmark"></i>
+                <div className='Background'>
+                    <div className='Content'
+                    >   <div className='topcorner' onClick={() => {
+                        toggleContent(false)
+                        setActivePage(activeButton.NONE)
+                    }}>
+                            <i class="fa-solid fa-xmark"></i>
+                        </div>
+                        <div className='ContentPlacer'
+                            dangerouslySetInnerHTML={{ __html: innerHtml }} />
                     </div>
-                    <div className='ContentPlacer'
-                        dangerouslySetInnerHTML={{ __html: innerHtml }} />
                 </div>
             );
         else
