@@ -1,33 +1,55 @@
-.Timeline {
-    position: relative;
-    right: 60vh;
-    margin-bottom: 10vh;
-}
 
-.Blog {
-    position: relative;
-    right: 60vh;
-}
-
-.Contact {
-    position: relative;
-    right: 60vh;
-    margin-top: 10vh;
-}
-
-.Resume {
-    position: relative;
-    left: 60vh;
-}
-
-.Publication {
-    position: relative;
-    left: 60vh;
-    margin-top: 10vh;
-}
-
+.Timeline,
+.Blog,
+.Contact,
+.Resume,
+.Publication,
 .About {
-    position: relative;
-    left: 60vh;
-    margin-bottom: 10vh;
+  position: relative;
+  margin: 1rem 0;
+  left: 0;
+  right: 0;
+}
+
+@media (min-width: 900px) {
+  .Timeline,
+  .Blog,
+  .Contact {
+    right: 30vw;
+    left: auto;
+    text-align: right;
+  }
+  .Resume,
+  .Publication,
+  .About {
+    left: 30vw;
+    right: auto;
+    text-align: left;
+  }
+  .Timeline {
+    margin-bottom: 5vh;
+  }
+  .Contact {
+    margin-top: 5vh;
+  }
+  .Publication {
+    margin-top: 5vh;
+  }
+  .About {
+    margin-bottom: 5vh;
+  }
+}
+
+@media (max-width: 900px) {
+  .Timeline,
+  .Blog,
+  .Contact,
+  .Resume,
+  .Publication,
+  .About {
+    left: 0;
+    right: 0;
+    text-align: center;
+    margin: 1rem 0;
+  }
 }
